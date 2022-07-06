@@ -4,8 +4,8 @@
 
 # コンパイル
 
-./node_modules/.bin/tsc
+```./node_modules/.bin/tsc```
 
 # 実行
 
-node ./dist/index.js
+```node ./dist/index.js```
